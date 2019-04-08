@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find Food</string>
+
+    <string name="login_preference">login</string>
+    <string name="login_status_preference">status</string>
+
+    <string-array name="sex">
+        <item></item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
